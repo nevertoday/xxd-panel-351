@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 351｜Naive Marker Title: keeps the photo and makes lettering the main event — one short phrase that names the photo's hidden metaphor, hand-lettered huge across the middle in wobbly, uneven bold black marker, with clumsy left-handed-looking doodles of the subject and two or three small things from the photo leaning on the letters, sitting on strokes or peeking out from behind them, the group loosely ringed by a crooked, unclosed thin-line frame, two tiny slanted handwritten footnotes, flat bright doodle colours from the photo and wide warm-white space. Background, lighting and perspective are dropped; scenes are reduced to one element. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-351 or asks for naive marker hand-lettering, a doodle title graphic or a hand-drawn brand key visual from a photo.",
+  "short_description": "马克笔大字：把照片的隐喻写成一行歪扭的黑色马克笔大字，小涂鸦靠在字上玩",
+  "zh-CN": {
+    "name": "马克笔大字",
+    "tagline": "把照片的隐喻写成一行歪扭的马克笔大字，让主体变成小涂鸦闯进字里。",
+    "look": "画面主角是一行字：从照片里提炼出一个说出隐喻的短词组，用黑色粗马克笔手写，横跨中部、两边留白不碰边，字形歪扭、大小不一、笔画粗细不匀，起笔收笔略有顿挫。主体和照片里两三样小东西缩成手掌大的笨拙涂鸦，像用左手画的，细黑线勾一圈、里面平涂一块亮色还常涂出线外，它们靠在字上、坐在笔画上或从字后探头，只遮住一点点。整组被一圈不闭合的歪斜细线框松松围住，一角伸到字外，旁边斜着散落两处小号手写注脚。暖白底占绝大部分，背景、光影和透视都不画。",
+    "traits": [
+      "黑色粗马克笔手写大字",
+      "短词组说出照片隐喻",
+      "笨拙小涂鸦靠在字上",
+      "歪斜细线框",
+      "小号手写注脚",
+      "暖白留白"
+    ],
+    "good": [
+      "主体简单、有点可爱的日常照片：一杯咖啡、一块披萨、一支冰淇淋",
+      "动物和小物件：一只睡觉的猫、一只小鸡、一块滑板",
+      "想做成小品牌主视觉、贴纸、菜单封面或社交配图的照片"
+    ],
+    "poor": [
+      "需要保留照片场景、光影或真实比例的需求，这里只剩几只小涂鸦",
+      "不想要大字、或想要规整印刷字体的需求，手写大字是这张图的主角",
+      "想要熟练精致的插画线条、写实比例或光滑商业卡通的需求"
+    ]
+  },
+  "en": {
+    "name": "Naive Marker Title",
+    "tagline": "Writes your photo's metaphor in wobbly bold marker and lets the subject tumble into the letters as a doodle.",
+    "look": "The star is a line of lettering: one short phrase that names the photo's metaphor, hand-written in bold black marker across the middle with space on both sides, letters wobbly, uneven in size and stroke weight, with small hitches where each stroke starts and ends. The subject and two or three small things from the photo shrink into clumsy palm-sized doodles that look drawn left-handed, outlined in thin black and filled with one flat bright colour that often spills over the line; they lean on the letters, sit on the strokes or peek out from behind, covering only a little. A crooked, unclosed thin-line frame loosely rings the group, one corner poking past the words, with two tiny slanted handwritten footnotes nearby. Warm white fills most of the space, and background, lighting and perspective are left out.",
+    "traits": [
+      "Bold black marker lettering",
+      "A short phrase for the metaphor",
+      "Clumsy doodles on the letters",
+      "Crooked thin frame",
+      "Tiny handwritten footnotes",
+      "Warm-white space"
+    ],
+    "good": [
+      "Simple, slightly cute everyday photos: a cup of coffee, a slice of pizza, an ice cream",
+      "Animals and small objects: a sleeping cat, a chick, a skateboard",
+      "Photos you want as a small brand's key visual, a sticker, a menu cover or a social post"
+    ],
+    "poor": [
+      "Requests that need the photo's scene, lighting or true proportions, since only a few doodles remain",
+      "Requests with no big lettering or with neat printed type, since the hand-lettered phrase is the star",
+      "Requests for skilled, polished illustration lines, realistic proportions or glossy commercial cartoons"
+    ]
+  },
+  "ja": {
+    "name": "マーカーの大きな手書き文字",
+    "tagline": "写真の隠喩をよれよれのマーカーの大きな文字にし、主役を落書きにして文字の中で遊ばせます。",
+    "look": "主役は一行の文字です。写真から隠喩を言い当てる短いフレーズを取り出し、太い黒マーカーの手書きで画面の中ほどに横いっぱいに書きます。両側には余白を残して端には触れず、字形はよれて大きさも線の太さもそろわず、書き始めと書き終わりに少し引っかかりがあります。主役と写真の中の小物二、三点は手のひらほどの不器用な落書きに縮み、左手で描いたような形で、細い黒線でふちどって中を明るい一色で平塗りし、よく線からはみ出します。それらは文字に寄りかかったり、線の上に座ったり、文字の陰から顔を出したりしますが、隠すのはほんの少しです。全体を閉じきらない傾いた細線の枠がゆるく囲み、一角が文字の外へはみ出し、そばには小さな手書きの脚注が斜めに二か所散らばります。温かい白の地が大部分を占め、背景や光と影、遠近は描きません。",
+    "traits": [
+      "太い黒マーカーの手書き文字",
+      "隠喩を言う短いフレーズ",
+      "文字に寄りかかる落書き",
+      "傾いた細線の枠",
+      "小さな手書きの脚注",
+      "温かい白の余白"
+    ],
+    "good": [
+      "シンプルで少しかわいい日常写真：一杯のコーヒー、ピザ一切れ、アイスクリーム",
+      "動物や小物：眠っている猫、ひよこ、スケートボード",
+      "小さなブランドのメインビジュアル、ステッカー、メニューの表紙、SNS 用の画像にしたい写真"
+    ],
+    "poor": [
+      "写真の場面、光と影、実際の比率を残したい場合（落書きがいくつか残るだけです）",
+      "大きな文字を入れたくない、または整った活字にしたい場合（手書きの大きな文字が主役です）",
+      "熟練した端正なイラストの線、写実的な比率、つるっとした商業キャラクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "마커 큰 글씨",
+    "tagline": "사진의 은유를 삐뚤빼뚤한 굵은 마커 글씨로 쓰고, 주인공을 낙서로 만들어 글자 속에서 놀게 합니다.",
+    "look": "화면의 주인공은 한 줄의 글씨입니다. 사진의 은유를 짚는 짧은 문구를 뽑아 굵은 검정 마커 손글씨로 화면 가운데를 가로질러 쓰고, 양옆에 여백을 두어 가장자리에 닿지 않게 합니다. 글자는 삐뚤빼뚤하고 크기와 획 굵기가 제각각이며 쓰기 시작과 끝에 살짝 멈칫한 자국이 있습니다. 주인공과 사진 속 작은 물건 두세 개는 손바닥만 한 서툰 낙서로 줄어드는데, 왼손으로 그린 듯한 모양에 가는 검은 선으로 테두리를 두르고 안을 밝은 한 색으로 평칠하며 자주 선 밖으로 삐져나옵니다. 이들은 글자에 기대거나 획 위에 앉거나 글자 뒤에서 고개를 내밀지만 가리는 건 아주 조금뿐입니다. 닫히지 않은 비뚤어진 가는 선 틀이 전체를 느슨하게 감싸고 한 모서리가 글자 밖으로 삐져나오며, 곁에는 작은 손글씨 각주 두 개가 비스듬히 흩어집니다. 따뜻한 흰 바탕이 대부분을 차지하고 배경, 명암, 원근은 그리지 않습니다.",
+    "traits": [
+      "굵은 검정 마커 손글씨",
+      "은유를 말하는 짧은 문구",
+      "글자에 기댄 서툰 낙서",
+      "비뚤어진 가는 선 틀",
+      "작은 손글씨 각주",
+      "따뜻한 흰 여백"
+    ],
+    "good": [
+      "단순하고 조금 귀여운 일상 사진: 커피 한 잔, 피자 한 조각, 아이스크림",
+      "동물과 작은 물건: 잠든 고양이, 병아리, 스케이트보드",
+      "작은 브랜드의 메인 비주얼, 스티커, 메뉴 표지, SNS 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사진의 장면, 명암, 실제 비율을 살려야 하는 경우(낙서 몇 개만 남습니다)",
+      "큰 글씨를 원하지 않거나 반듯한 인쇄체를 원하는 경우(손글씨 큰 글씨가 주인공입니다)",
+      "능숙하고 정교한 일러스트 선, 사실적인 비율, 매끈한 상업 캐릭터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "عنوان قلم التحديد العفوي",
+    "tagline": "يكتب استعارة صورتك بقلم تحديد عريض متمايل، ويُدخل العنصر الرئيسي بين الحروف كرسمة عفوية.",
+    "look": "البطل سطر من الكتابة: عبارة قصيرة تسمّي استعارة الصورة، مكتوبة بخط اليد بقلم تحديد أسود عريض عبر منتصف الصورة مع فراغ على الجانبين، بحروف متمايلة متفاوتة الحجم وسماكة الخط، فيها تعثّر خفيف عند بداية كل ضربة ونهايتها. يصغر العنصر وشيئان أو ثلاثة من أشياء الصورة إلى رسوم خرقاء بحجم الكفّ كأنها مرسومة باليد اليسرى، محاطة بخط أسود رفيع ومملوءة بلون مشرق مسطّح واحد يفيض غالباً عن الخط؛ تتكئ على الحروف أو تجلس على الضربات أو تطلّ من خلفها، ولا تغطي إلا القليل. يحيط بالمجموعة إطار مائل رفيع غير مغلق، تبرز إحدى زواياه خارج الكلمات، وبجانبها حاشيتان صغيرتان مائلتان بخط اليد. يملأ الأبيض الدافئ معظم المساحة، ولا تُرسم الخلفية ولا الضوء والظلّ ولا المنظور.",
+    "traits": [
+      "كتابة عريضة بقلم تحديد أسود",
+      "عبارة قصيرة تقول الاستعارة",
+      "رسوم خرقاء على الحروف",
+      "إطار رفيع مائل",
+      "حواشٍ صغيرة بخط اليد",
+      "فراغ أبيض دافئ"
+    ],
+    "good": [
+      "صور يومية بسيطة فيها شيء من الظرافة: فنجان قهوة، شريحة بيتزا، مثلّجات",
+      "حيوانات وأشياء صغيرة: قطة نائمة، كتكوت، لوح تزلّج",
+      "صور تريدها هوية بصرية لعلامة صغيرة أو ملصقاً أو غلاف قائمة طعام أو منشوراً على منصّات التواصل"
+    ],
+    "poor": [
+      "طلبات تحتاج إلى مشهد الصورة أو ضوئها أو نِسَبها الحقيقية، إذ لا يبقى إلا بضع رسوم",
+      "طلبات لا تريد كتابة كبيرة أو تريد حروفاً مطبوعة منتظمة، فالعبارة المكتوبة باليد هي البطل",
+      "طلب خطوط رسم متقنة مصقولة أو نِسَب واقعية أو كرتون تجاري لامع"
+    ]
+  }
+}

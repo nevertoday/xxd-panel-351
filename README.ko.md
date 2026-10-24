@@ -1,158 +1,270 @@
 <div align="center">
 
-# XXD Panel 351｜马克笔大字
+# XXD Panel 351｜마커 큰 글씨
 
-위는 원본 사진. 아래에서는 사진의 은유를 짧은 말로 뽑아, 삐뚤빼뚤하고 크기도 제각각인 검은 굵은 마커 손글씨 큰 글자로 화면 가운데를 가로지르게 쓴다. 피사체와 사진 속 작은 물건 두세 개는 서툰 낙서가 되어 글자에 기대고, 획 위에 앉고, 글자 뒤에서 고개를 내민다. 전체를 비뚤어진 가는 선 테두리가 느슨하게 감싸고, 곁에 작은 손글씨 주석 두 개.
+**사진의 은유를 삐뚤빼뚤한 굵은 마커 글씨로 쓰고, 주인공을 낙서로 만들어 글자 속에서 놀게 합니다.**
 
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-> 원본 프롬프트(5개 언어 입구): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
-
-## 16:9 좌우 구성 예시
-
-상하 세트와 다른 스무 가지 주제의 Unsplash 세로 사진 스무 장. 각각 16:9 좌우 완성 캔버스. 왼쪽은 실사, 오른쪽은 마커 손글씨 큰 글자와 작은 낙서, 정확히 50:50. 언어 역시 다섯 가지를 차례로 쓴다. 세로 주제는 디저트, 음료, 작은 동물, 과일과 꽃, 일상 소지품으로 골라, 더 좁은 반쪽에서도 문구가 두세 줄로 나뉘어 읽히고 낙서가 획 사이에 끼어들어도 글자를 가리지 않는 모습을 보여 준다.
-
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 351 sample 21 · 아이스크림콘"><br><sub>21 · 아이스크림콘</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 351 sample 22 · 레모네이드"><br><sub>22 · 레모네이드</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 351 sample 23 · 사와로 선인장"><br><sub>23 · 사와로 선인장</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 351 sample 24 · 청개구리"><br><sub>24 · 청개구리</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 351 sample 25 · 해바라기"><br><sub>25 · 해바라기</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 351 sample 26 · 테니스"><br><sub>26 · 테니스</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 351 sample 27 · 칵테일"><br><sub>27 · 칵테일</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 351 sample 28 · 케이크"><br><sub>28 · 케이크</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 351 sample 29 · 풍선"><br><sub>29 · 풍선</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 351 sample 30 · 병아리"><br><sub>30 · 병아리</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 351 sample 31 · 딸기"><br><sub>31 · 딸기</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 351 sample 32 · 불가사리"><br><sub>32 · 불가사리</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 351 sample 33 · 기타리스트"><br><sub>33 · 기타리스트</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 351 sample 34 · 스키"><br><sub>34 · 스키</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 351 sample 35 · 국수"><br><sub>35 · 국수</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 351 sample 36 · 밀크셰이크"><br><sub>36 · 밀크셰이크</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 351 sample 37 · 책 더미"><br><sub>37 · 책 더미</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 351 sample 38 · 모자"><br><sub>38 · 모자</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 351 sample 39 · 운동화"><br><sub>39 · 운동화</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 351 sample 40 · 카메라"><br><sub>40 · 카메라</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 351 · 01 · 라테 아트"><br><sub>01 · 라테 아트</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 351 · 02 · 크루아상"><br><sub>02 · 크루아상</sub></td>
   </tr>
 </table>
 
-## 3:4 상하 구성 예시
+<p align="center"><sub>위는 원본 사진, 아래는 이 스타일로 다시 그린 모습입니다.</sub></p>
 
-피사체가 뚜렷한 Unsplash 가로 사진 스무 장을 각각 완성된 3:4 상하 캔버스로 만들었다. 위는 실사, 아래는 검은 마커 손글씨 큰 글자와 그 속으로 뛰어든 작은 낙서들. 정확히 50:50. 원문은 언어를 정하지 않으므로 예시는 간체 중국어, 영어, 일본어, 한국어, 아랍어를 차례로 쓰고, 큰 글자 문구는 모델이 각 사진의 은유에서 뽑아낸다. 음식, 음료, 작은 동물, 일상의 놀이를 중심으로, 어수선하거나 피사체가 작은 사진이 배경을 덜어 내고 낙서 몇 개로 줄어든 뒤 삐뚤빼뚤한 큰 글자 한 줄과 함께 노는 과정을 보여 준다.
+## 무엇인가요
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 351 sample 01 · 라테 아트"><br><sub>01 · 라테 아트</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 351 sample 02 · 크루아상"><br><sub>02 · 크루아상</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 351 sample 03 · 피자"><br><sub>03 · 피자</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 351 sample 04 · 스케이트보드"><br><sub>04 · 스케이트보드</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 351 sample 05 · 피크닉"><br><sub>05 · 피크닉</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 351 sample 06 · 서프보드"><br><sub>06 · 서프보드</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 351 sample 07 · 핫도그"><br><sub>07 · 핫도그</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 351 sample 08 · 수박"><br><sub>08 · 수박</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 351 sample 09 · 도넛"><br><sub>09 · 도넛</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 351 sample 10 · 강아지 산책"><br><sub>10 · 강아지 산책</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 351 sample 11 · 고양이 낮잠"><br><sub>11 · 고양이 낮잠</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 351 sample 12 · 비 오는 날"><br><sub>12 · 비 오는 날</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 351 sample 13 · 캠프파이어"><br><sub>13 · 캠프파이어</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 351 sample 14 · 아침 식사"><br><sub>14 · 아침 식사</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 351 sample 15 · 수영장"><br><sub>15 · 수영장</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 351 sample 16 · 자전거 타기"><br><sub>16 · 자전거 타기</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 351 sample 17 · 연날리기"><br><sub>17 · 연날리기</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 351 sample 18 · 레코드플레이어"><br><sub>18 · 레코드플레이어</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 351 sample 19 · 햄버거"><br><sub>19 · 햄버거</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 351 sample 20 · 초밥"><br><sub>20 · 초밥</sub></td>
-  </tr>
-</table>
+Claude Code, Codex 같은 AI 에이전트용 Skill입니다. 사진 한 장을 주면 Panel 351의 원본 프롬프트대로 완성된 PNG를 그립니다.
 
-## 잘 맞는 상황과 해결하는 문제
+- **어떤 그림이 되나요:** 화면의 주인공은 한 줄의 글씨입니다. 사진의 은유를 짚는 짧은 문구를 뽑아 굵은 검정 마커 손글씨로 화면 가운데를 가로질러 쓰고, 양옆에 여백을 두어 가장자리에 닿지 않게 합니다. 글자는 삐뚤빼뚤하고 크기와 획 굵기가 제각각이며 쓰기 시작과 끝에 살짝 멈칫한 자국이 있습니다. 주인공과 사진 속 작은 물건 두세 개는 손바닥만 한 서툰 낙서로 줄어드는데, 왼손으로 그린 듯한 모양에 가는 검은 선으로 테두리를 두르고 안을 밝은 한 색으로 평칠하며 자주 선 밖으로 삐져나옵니다. 이들은 글자에 기대거나 획 위에 앉거나 글자 뒤에서 고개를 내밀지만 가리는 건 아주 조금뿐입니다. 닫히지 않은 비뚤어진 가는 선 틀이 전체를 느슨하게 감싸고 한 모서리가 글자 밖으로 삐져나오며, 곁에는 작은 손글씨 각주 두 개가 비스듬히 흩어집니다. 따뜻한 흰 바탕이 대부분을 차지하고 배경, 명암, 원근은 그리지 않습니다.
+- **키워드:** 굵은 검정 마커 손글씨 · 은유를 말하는 짧은 문구 · 글자에 기댄 서툰 낙서 · 비뚤어진 가는 선 틀 · 작은 손글씨 각주 · 따뜻한 흰 여백
+- **만들 수 있는 것:** 위아래 비교(위 사진, 아래 디자인), 좌우 비교, 디자인만, 또는 휴대폰·태블릿·PC·워치 배경화면 세트. 여러 개를 함께 고를 수 있고 비율과 픽셀도 자유입니다.
+- **이런 것은 아닙니다:** 필터도 템플릿도 아닙니다. 매번 사진에서 새로 그리며, 사진 한 장이 하나의 독립된 작업입니다.
 
-일상 사진을 작은 브랜드의 손그림 키 비주얼로 만들고 싶을 때 맞는다: 커피 한 잔, 피자 한 조각, 잠든 고양이, 스케이트보드, 병아리, 아이스크림콘. 구도가 약하거나 배경이 어지럽거나 피사체가 작은 사진도 살린다——아래에서 배경, 빛, 원근을 지우고 피사체를 손바닥만 한 낙서로 줄여 큰 글자 한 줄과 함께 놀게 해, 느슨하고 웃긴 한 장으로 만든다. 사진이 장면이라면 단일 사물이나 한 조각만 그린다.
+## 세 단계로 시작하기
 
-핵심은 사진의 은유를 짚는 가장 짧고 알아보기 쉬운 문구를 검은 굵은 마커로 삐뚤빼뚤, 크기도 획 굵기도 고르지 않게 써서 가운데를 가로지르는 주인공으로 키우고 양옆에 여백을 남기는 것이다. 낙서는 획에 기대고, 글자 위에 앉고, 뒤에서 고개를 내밀며 글자를 아주 조금만 가린다. 닫히지 않은 비뚤어진 테두리의 한 모서리가 글자 밖으로 삐져나오고, 곁에 비스듬한 작은 손글씨 주석 두 개. 따뜻한 흰 바탕이 대부분이고 검정은 큰 글자와 가는 선에만, 낙서는 각자 사진 속 가장 선명한 색 하나씩. 장면 전체 복제, 배경 채우기, 반듯한 인쇄체나 작아진 글자, 글자와 따로 노는 낙서, 능숙한 일러스트 선, 사실적인 비례, 너무 많은 낙서, 넓은 색면, 그라데이션, 칙칙한 색은 피한다.
-
-## 사용 팁
-
-- **선명한 사진 한 장부터 시작하세요:** 피사체, 동작, 관계가 잘 보이는 이미지를 고른 뒤 출력 방식과 비율을 정합니다.
-- **파라미터를 한 문장으로 연결하세요:** “상하 / 좌우 / 순수 디자인 + 16:9 / 3:4 / 휴대폰 배경화면”처럼 말하고 컴퓨터·태블릿·스마트워치 크기도 덧붙일 수 있습니다.
-- **남겨야 할 것을 분명히 하세요:** 인물, 사물, 동작, 관계, 문구를 지정하되 레이아웃을 지나치게 고정하지 않아야 스타일이 자연스럽게 설계합니다.
-- **텍스트 방식을 고르세요:** 이미지에서 지능적으로 생성하게 하거나, `--text exact --copy`로 정확한 문구를 고정하거나, `--text none`으로 글자를 없앨 수 있습니다.
-- **사진 영역과 디자인 영역을 설명하세요:** 상하·좌우에서는 사진을 남길 쪽과 다시 디자인할 쪽을 말하고, 순수 디자인·배경화면은 전체 캔버스를 다시 설계한다고 알려 주세요.
-- **한 장을 먼저 시험한 뒤 일괄 처리하세요:** 모드, 비율, 텍스트, 언어를 한 장에서 확인하고 같은 설정을 폴더에 적용합니다. 비교를 위해 한 번에 한 변수만 바꾸세요.
-
-## 시작하기
-
-GitHub에서 설치:
+**1. 설치.** Claude Code, Codex 등 Skills를 지원하는 에이전트에서 쓸 수 있습니다:
 
 ```bash
 npx skills add https://github.com/nevertoday/xxd-panel-351 --skill xxd-panel-351
 ```
 
-설치 후 Agent 세션을 다시 시작하고 `$xxd-panel-351`을 호출하세요. 사용자 단위 Codex 설치에는 `--global --agent codex --yes`를 추가할 수 있습니다.
+설치 후 에이전트 세션을 다시 시작하세요. 이 저장소를 `git clone`한 뒤 `~/.claude/skills/xxd-panel-351` 또는 `~/.codex/skills/xxd-panel-351`에 링크해도 됩니다.
+
+**2. 에이전트가 이미지를 생성할 수 있는지 확인.** 이 Skill에는 자체 이미지 모델이 없고, 에이전트의 이미지 생성(GPT Image 2 권장)을 사용합니다.
+
+- Codex는 내장 이미지 생성이 켜져 있으면 바로 쓸 수 있습니다.
+- Claude Code처럼 내장 이미지 생성이 없는 에이전트는 OpenAI 호환 이미지 API가 필요합니다. 5분 정도면 됩니다: [이미지 생성 설정](#이미지-생성-설정).
+
+잘 모르겠다면 그냥 써 보세요. 생성할 수 없으면 작업을 시작하기 전에 Skill이 멈추고 알려 줍니다.
+
+**3. 사진을 보내고 한 문장으로 말하기:**
+
+> xxd-panel-351으로 이 사진을 3:4 위아래 비교 포스터로 만들고 한국어 제목을 붙여 줘.
+
+요청이 충분하면 바로 생성하고, 빠진 것(레이아웃, 비율, 글자)은 보통 한두 가지만 묻습니다. 결과 PNG는 `~/Desktop/xxd/xxd-panel-351/` 아래 새 폴더에 저장됩니다.
+
+## 잘 맞는 사진
+
+**잘 맞아요**
+
+- 단순하고 조금 귀여운 일상 사진: 커피 한 잔, 피자 한 조각, 아이스크림
+- 동물과 작은 물건: 잠든 고양이, 병아리, 스케이트보드
+- 작은 브랜드의 메인 비주얼, 스티커, 메뉴 표지, SNS 이미지로 쓰고 싶은 사진
+
+**잘 맞지 않아요**
+
+- 사진의 장면, 명암, 실제 비율을 살려야 하는 경우(낙서 몇 개만 남습니다)
+- 큰 글씨를 원하지 않거나 반듯한 인쇄체를 원하는 경우(손글씨 큰 글씨가 주인공입니다)
+- 능숙하고 정교한 일러스트 선, 사실적인 비율, 매끈한 상업 캐릭터를 원하는 경우
+
+## 샘플
+
+아래 이미지는 모두 이 Skill이 사진 한 장으로 만든 완성작입니다. 위아래 비교와 좌우 비교는 서로 다른 사진을 썼습니다.
+
+### 위아래 비교: 위 사진, 아래 디자인
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 351 · 01 · 라테 아트"><br><sub>01 · 라테 아트</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 351 · 02 · 크루아상"><br><sub>02 · 크루아상</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 351 · 03 · 피자"><br><sub>03 · 피자</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 351 · 04 · 스케이트보드"><br><sub>04 · 스케이트보드</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary>16장 더 보기</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 351 · 05 · 피크닉"><br><sub>05 · 피크닉</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 351 · 06 · 서프보드"><br><sub>06 · 서프보드</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 351 · 07 · 핫도그"><br><sub>07 · 핫도그</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 351 · 08 · 수박"><br><sub>08 · 수박</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 351 · 09 · 도넛"><br><sub>09 · 도넛</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 351 · 10 · 강아지 산책"><br><sub>10 · 강아지 산책</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 351 · 11 · 고양이 낮잠"><br><sub>11 · 고양이 낮잠</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 351 · 12 · 비 오는 날"><br><sub>12 · 비 오는 날</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 351 · 13 · 캠프파이어"><br><sub>13 · 캠프파이어</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 351 · 14 · 아침 식사"><br><sub>14 · 아침 식사</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 351 · 15 · 수영장"><br><sub>15 · 수영장</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 351 · 16 · 자전거 타기"><br><sub>16 · 자전거 타기</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 351 · 17 · 연날리기"><br><sub>17 · 연날리기</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 351 · 18 · 레코드플레이어"><br><sub>18 · 레코드플레이어</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 351 · 19 · 햄버거"><br><sub>19 · 햄버거</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 351 · 20 · 초밥"><br><sub>20 · 초밥</sub></td>
+  </tr>
+</table>
+
+</details>
+
+### 좌우 비교: 왼쪽 사진, 오른쪽 디자인
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 351 · 21 · 아이스크림콘"><br><sub>21 · 아이스크림콘</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 351 · 22 · 레모네이드"><br><sub>22 · 레모네이드</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 351 · 23 · 사와로 선인장"><br><sub>23 · 사와로 선인장</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 351 · 24 · 청개구리"><br><sub>24 · 청개구리</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary>16장 더 보기</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 351 · 25 · 해바라기"><br><sub>25 · 해바라기</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 351 · 26 · 테니스"><br><sub>26 · 테니스</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 351 · 27 · 칵테일"><br><sub>27 · 칵테일</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 351 · 28 · 케이크"><br><sub>28 · 케이크</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 351 · 29 · 풍선"><br><sub>29 · 풍선</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 351 · 30 · 병아리"><br><sub>30 · 병아리</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 351 · 31 · 딸기"><br><sub>31 · 딸기</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 351 · 32 · 불가사리"><br><sub>32 · 불가사리</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 351 · 33 · 기타리스트"><br><sub>33 · 기타리스트</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 351 · 34 · 스키"><br><sub>34 · 스키</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 351 · 35 · 국수"><br><sub>35 · 국수</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 351 · 36 · 밀크셰이크"><br><sub>36 · 밀크셰이크</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 351 · 37 · 책 더미"><br><sub>37 · 책 더미</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 351 · 38 · 모자"><br><sub>38 · 모자</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 351 · 39 · 운동화"><br><sub>39 · 운동화</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 351 · 40 · 카메라"><br><sub>40 · 카메라</sub></td>
+  </tr>
+</table>
+
+</details>
+
+## 이렇게 말하면 됩니다
+
+파라미터를 외울 필요 없이 그대로 말하세요:
+
+| 원하는 것 | 이렇게 말하기 |
+|---|---|
+| 위아래 비교 | 3:4 위아래 비교로 만들어 줘 |
+| 좌우 비교 | 16:9 좌우 비교, 왼쪽에 사진 |
+| 디자인만 | 사진 없이 디자인만, 9:16 세로 |
+| 배경화면 세트 | 휴대폰, 태블릿, PC, 워치 배경화면을 통일된 세트로 |
+| 여러 비율 | 같은 사진으로 1:1, 3:4, 16:9 한 장씩 |
+| 내 글자 그대로 | 제목은 「바람이 지나가는 곳」, 한 글자도 바꾸지 마 |
+| 글자 없음 | 글자는 하나도 넣지 마 |
+| 글자 언어 | 글자는 일본어로 |
+| 폴더 전체 | 이 폴더의 사진을 전부 위아래 비교로 |
+| 지난번과 같이 | 지난번 설정 그대로 |
+
+명령줄이 편하다면 파라미터가 위와 일대일로 대응합니다:
 
 ```text
 /xxd-panel-351 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale ko-KR
-/xxd-panel-351 photo.jpg --mode left-right --size 16:9 --text prompt --locale en-US
-/xxd-panel-351 photo.jpg --mode design-only --size 9:16 --text none --prefs off
+/xxd-panel-351 photo.jpg --mode design-only --size 9:16 --text none
+/xxd-panel-351 ./photos --mode left-right --size 16:9 --text prompt --locale en-US
 ```
 
-전체 실행 계약은 [SKILL.md](SKILL.md), 런타임 어댑터는 [영어](references/xxd-panel-351-prompt.en.md)와 [중국어](references/xxd-panel-351-prompt.zh-CN.md)를 확인하세요.
+전체 파라미터는 [파라미터 목록](#파라미터-목록)에 있습니다.
+
+## 자주 묻는 질문
+
+**원본 사진이 꼭 들어가나요?** 아니요. "디자인만"이나 배경화면을 고르면 화면 전체가 디자인입니다.
+
+**글자는 누가 쓰나요?** 기본적으로 이미지 모델이 사진을 보고 쓰고, 여러분은 언어만 고릅니다. 직접 쓴 글자를 주면 한 글자도 바꾸지 않고, 글자 없이도 만들 수 있습니다. 사실처럼 보이는 정보(지명, 날짜, 숫자)는 여러분이 준 것이나 사진에 보이는 것만 쓰고 지어내지 않습니다.
+
+**마음에 들지 않으면요?** "한 장 더"라고 하세요. 이전 결과를 고치는 대신 원본 사진에서 다시 그리므로 매번 결과가 다릅니다.
+
+**여러 장을 한꺼번에 하면 섞이지 않나요?** 섞이지 않습니다. 사진마다 따로 생성하고 다른 사진의 색, 글자, 구도를 빌리지 않습니다. 설정은 한 번만 묻습니다.
+
+**제 사진은 어디로 가나요?** 에이전트가 쓰는 이미지 모델로만 갑니다. Skill은 다른 곳에 올리지 않고 접속 주소나 키도 표시하지 않습니다.
+
+**다른 Panel과는 어떤 관계인가요?** XXD Panel은 번호마다 스타일이 하나씩인 독립된 모음입니다. 마음에 드는 것만 설치해도 됩니다. 사진에 맞는 스타일을 AI가 추천하게 하거나 여러 개를 비교하려면 카탈로그 [xxd-panel-all](https://github.com/nevertoday/xxd-panel-all)을 쓰세요.
 
 ## 원본 프롬프트
 
-[중국어 전체 원문](references/original-prompt/zh-CN.md)을 그대로 보존하며 실행 시 창작과 미적 판단의 유일한 기준으로 사용합니다. 이번 배치는 5개 언어 사용 설명을 제공하되 긴 원문의 4개 언어 번역은 추가하지 않습니다. 스타일 요약은 검색용이며 원문을 대체하지 않습니다.
+이 스타일은 샤오샤오둥이 쓴 [원본 프롬프트](references/original-prompt/zh-CN.md)(중국어)만으로 정해집니다. Skill은 여러분이 고른 레이아웃, 크기, 글자 설정을 뒤에 덧붙일 뿐, 요약하거나 번역하거나 고쳐 쓰지 않습니다.
 
-## 빠른 적합성 확인
+참고 번역(읽기용이며 이미지 생성에는 쓰지 않음): [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
 
-원본의 정체성은 유지하면서 구도를 재연출하고, 재료의 특징과 의도적인 여백을 함께 살립니다. 정확한 문구·자동 문구·무문자, 단일 이미지·재귀 폴더 처리 및 아래 네 가지 출력 모드를 지원합니다.
+## 이미지 생성 설정
 
-## 네 가지 출력 모드
+`gpt-image-2`(또는 호환 모델)를 제공하는 OpenAI 호환 API와 그 API 키가 필요합니다. 아래 방법은 별도 설정을 만들어 Codex 자체 설정에는 영향을 주지 않습니다:
 
-- `top-bottom`: 전폭 상하 두 영역만 사용합니다. 실제 사진은 위, 디자인은 아래에 정확히 50%씩 둡니다.
-- `left-right`: 전고 좌우 두 영역만 사용합니다. 실제 사진은 왼쪽, 디자인은 오른쪽에 정확히 50%씩 두며 상하 구도로 돌리지 않습니다.
-- `design-only`: 전체 캔버스에 Panel 351의 디자인 번역만 표시하고 사진은 보이지 않는 참고 자료로 사용합니다.
-- `wallpaper-pack`: 휴대폰, iPad, 데스크톱, 시계용 완성 이미지를 각각 만들며 `linked` 또는 `independent`를 선택합니다.
+```bash
+mkdir -p ~/.xxd-imagegen
+cat > ~/.xxd-imagegen/config.toml <<'EOF'
+model_provider = "image"
 
-모드와 크기는 여러 개 선택할 수 있습니다. `1:1`, `3:4`, `4:3`, `4:5`, `5:4`, `2:3`, `3:2`, `9:16`, `16:9`, `21:9`, `5:7`, `7:5`, 정확한 픽셀을 지원합니다. 텍스트는 모델 생성, 사용자 원문, 없음 중에서 선택합니다. 폴더 입력은 각 소스를 분리 처리하고 최종 PNG를 하나의 새 작업 폴더에 평면으로 저장합니다.
+[model_providers.image]
+base_url = "https://api.openai.com/v1"   # 또는 호환 엔드포인트
+env_key = "XXD_IMAGE_API_KEY"
+EOF
+
+# ~/.zshrc 또는 ~/.bashrc에 넣어 에이전트도 읽을 수 있게
+echo 'export XXD_IMAGEGEN_CODEX_DIR=~/.xxd-imagegen' >> ~/.zshrc
+echo 'export XXD_IMAGE_API_KEY=내-키' >> ~/.zshrc
+```
+
+터미널과 에이전트를 다시 연 뒤, 이 Skill 폴더에서 한 번 확인하세요:
+
+```bash
+python3 scripts/configured_imagegen.py probe
+```
+
+`"ok":true`가 나오면 성공입니다. 사용 가능 여부만 보여 주고 주소나 키는 출력하지 않습니다. Codex가 이미 호환 API로 이미지를 만들고 있다면 이 단계는 필요 없습니다.
+
+## 파라미터 목록
+
+| 파라미터 | 값 |
+|---|---|
+| `--mode` | `top-bottom` 위아래 비교 · `left-right` 좌우 비교 · `design-only` 디자인만 · `wallpaper-pack` 4종 배경화면; 여러 개 선택 가능 |
+| `--size` | `auto` 추천 · `source` 사진 비율 · `1:1` `3:4` `4:3` `4:5` `5:4` `2:3` `3:2` `9:16` `16:9` `21:9` `5:7` `7:5` · 정확한 픽셀(예 `2160x3840`); 여러 개 선택 가능 |
+| `--text` | `prompt` 사진을 보고 작성 · `exact` 내 글자 그대로(`--copy "…"`와 함께) · `none` 글자 없음 |
+| `--locale` | 글자 언어. 예: `zh-CN` `en-US` `ja-JP` `ko-KR` `ar` |
+| `--wallpaper` | `linked` 통일된 세트 · `independent` 네 장 각각 독립 |
+| `--wallpaper-size` | 기기별 픽셀. 예: `phone=1440x3200,desktop=3840x2160` |
+| `--out` | 출력 루트 변경(기본 `~/Desktop/xxd/xxd-panel-351/`) |
+| `--prefs` | `last` 지난번 그대로 · `edit` 지난번에서 수정 · `new` 새로 고르기 · `off` 이번엔 기억 안 함 · `clear` 기록 삭제 |
+
+- 값이 모두 있으면 묻지 않고, 빠진 것만 묻습니다. `photo.jpg` 대신 폴더를 주면 일괄 처리합니다.
+- 조합은 한 장씩 생성합니다. 모드 2개 × 크기 3개 = 6장이며, 잘라 낸 것이 아니라 캔버스마다 구도를 새로 잡습니다.
+- 비교 이미지는 정확히 50:50입니다. 보통 모델은 디자인 쪽만 그리고 스크립트가 원본 사진을 그대로 옆에 붙이므로, 경계는 가운데이고 사진은 바뀌지 않습니다.
+- 파일 이름은 `source-001-street-top-bottom-3x4-1152x1536.png` 형식이며 모두 작업 폴더 하나에 평평하게 저장됩니다.
+- 레이아웃, 크기, 글자 방식과 언어만 기억하고 사진, 문구, 키는 저장하지 않습니다.
 
 <!-- xxd-readme-ads:start -->
 ## XXD 소개

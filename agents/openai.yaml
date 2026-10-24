@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 351"
-  short_description: "马克笔大字：上半保留原照，下半用歪扭的黑色粗马克笔手写一个说出照片隐喻的短词组，主体缩成笨笨的小涂鸦靠在字上玩，外面松松围一圈歪线框"
-  default_prompt: "Use $xxd-panel-351 to transform my photograph following the complete canonical source brief."
+  short_description: "马克笔大字：把照片的隐喻写成一行歪扭的黑色马克笔大字，小涂鸦靠在字上玩"
+  default_prompt: "Use $xxd-panel-351 to turn my photo into Naive Marker Title artwork."

@@ -1,161 +1,270 @@
 <div align="center">
 
-# XXD Panel 351｜马克笔大字
+# XXD Panel 351｜Naive Marker Title
 
-Keep the photograph above. Below, the photo's metaphor becomes one short phrase hand-lettered huge across the middle in wobbly, uneven bold black marker; the subject and two or three small things from the photo shrink into clumsy doodles that lean on the letters, sit on the strokes or peek out from behind them, the group loosely ringed by a crooked thin-line frame, with two tiny handwritten footnotes nearby.
+**Writes your photo's metaphor in wobbly bold marker and lets the subject tumble into the letters as a doodle.**
 
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<a href="README.md">简体中文</a> · <strong>English</strong> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-> Original prompt (five-language entry): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
-
-## 16:9 Left–Right Samples
-
-Twenty Unsplash portrait photographs on twenty themes different from the top–bottom set, each rebuilt as one complete 16:9 left–right canvas. The photograph stays on the left; on the right are big marker letters and small doodles, exact 50:50. The language again rotates through the five locales. The portrait themes favour desserts, drinks, small animals, fruit and flowers and everyday carry, to show how in a narrower half the phrase breaks into two or three lines yet stays readable, with doodles squeezed between the strokes without hiding the words.
-
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 351 sample 21 · Ice cream cone"><br><sub>21 · Ice cream cone</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 351 sample 22 · Lemonade"><br><sub>22 · Lemonade</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 351 sample 23 · Saguaro"><br><sub>23 · Saguaro</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 351 sample 24 · Tree frog"><br><sub>24 · Tree frog</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 351 sample 25 · Sunflower"><br><sub>25 · Sunflower</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 351 sample 26 · Tennis"><br><sub>26 · Tennis</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 351 sample 27 · Cocktail"><br><sub>27 · Cocktail</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 351 sample 28 · Cake"><br><sub>28 · Cake</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 351 sample 29 · Balloons"><br><sub>29 · Balloons</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 351 sample 30 · Chick"><br><sub>30 · Chick</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 351 sample 31 · Strawberries"><br><sub>31 · Strawberries</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 351 sample 32 · Starfish"><br><sub>32 · Starfish</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 351 sample 33 · Guitarist"><br><sub>33 · Guitarist</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 351 sample 34 · Skiing"><br><sub>34 · Skiing</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 351 sample 35 · Noodles"><br><sub>35 · Noodles</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 351 sample 36 · Milkshake"><br><sub>36 · Milkshake</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 351 sample 37 · Stack of books"><br><sub>37 · Stack of books</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 351 sample 38 · Hat"><br><sub>38 · Hat</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 351 sample 39 · Sneakers"><br><sub>39 · Sneakers</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 351 sample 40 · Camera"><br><sub>40 · Camera</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 351 · 01 · Latte pour"><br><sub>01 · Latte pour</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 351 · 02 · Croissant"><br><sub>02 · Croissant</sub></td>
   </tr>
 </table>
 
-## 3:4 Top–Bottom Samples
+<p align="center"><sub>Top: the original photo. Bottom: the same photo in this style.</sub></p>
 
-Twenty Unsplash landscape photographs with a clear subject, each rebuilt as one complete 3:4 top–bottom canvas. The photograph stays above; below is a big black hand-lettered marker phrase with small doodles barging into it, exact 50:50. The source brief sets no language, so the samples rotate through Simplified Chinese, English, Japanese, Korean and Arabic, and the model distils each phrase from the photo's metaphor. Themes lean on food, drinks, small animals and everyday fun, to show how busy or tiny subjects lose their background, shrink into a few doodles and start playing with one wobbly line of big letters.
+## What it is
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 351 sample 01 · Latte pour"><br><sub>01 · Latte pour</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 351 sample 02 · Croissant"><br><sub>02 · Croissant</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 351 sample 03 · Pizza"><br><sub>03 · Pizza</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 351 sample 04 · Skateboard"><br><sub>04 · Skateboard</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 351 sample 05 · Picnic"><br><sub>05 · Picnic</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 351 sample 06 · Surfboards"><br><sub>06 · Surfboards</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 351 sample 07 · Hot dog"><br><sub>07 · Hot dog</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 351 sample 08 · Watermelon"><br><sub>08 · Watermelon</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 351 sample 09 · Doughnut"><br><sub>09 · Doughnut</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 351 sample 10 · Dog walk"><br><sub>10 · Dog walk</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 351 sample 11 · Cat nap"><br><sub>11 · Cat nap</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 351 sample 12 · Rainy day"><br><sub>12 · Rainy day</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 351 sample 13 · Campfire"><br><sub>13 · Campfire</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 351 sample 14 · Breakfast"><br><sub>14 · Breakfast</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 351 sample 15 · Swimming pool"><br><sub>15 · Swimming pool</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 351 sample 16 · Bike ride"><br><sub>16 · Bike ride</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 351 sample 17 · Kite flying"><br><sub>17 · Kite flying</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 351 sample 18 · Record player"><br><sub>18 · Record player</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 351 sample 19 · Burger"><br><sub>19 · Burger</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 351 sample 20 · Sushi"><br><sub>20 · Sushi</sub></td>
-  </tr>
-</table>
+A Skill for AI agents such as Claude Code and Codex. Give it a photo and it paints a finished PNG following the original Panel 351 prompt.
 
-## Best-fit situations and problems solved
+- **What it looks like:** The star is a line of lettering: one short phrase that names the photo's metaphor, hand-written in bold black marker across the middle with space on both sides, letters wobbly, uneven in size and stroke weight, with small hitches where each stroke starts and ends. The subject and two or three small things from the photo shrink into clumsy palm-sized doodles that look drawn left-handed, outlined in thin black and filled with one flat bright colour that often spills over the line; they lean on the letters, sit on the strokes or peek out from behind, covering only a little. A crooked, unclosed thin-line frame loosely rings the group, one corner poking past the words, with two tiny slanted handwritten footnotes nearby. Warm white fills most of the space, and background, lighting and perspective are left out.
+- **Keywords:** Bold black marker lettering · A short phrase for the metaphor · Clumsy doodles on the letters · Crooked thin frame · Tiny handwritten footnotes · Warm-white space
+- **What you can make:** A top–bottom comparison (photo above, design below), a left–right comparison, the design alone, or a wallpaper set for phone, tablet, desktop and watch. Pick several at once, at any ratio or exact pixel size.
+- **What it is not:** Not a filter and not a template: every image is redrawn from your photo, and each photo is its own job.
 
-For turning an everyday photograph into a small brand's hand-drawn key visual: a cup of coffee, a slice of pizza, a sleeping cat, a skateboard, a chick, an ice cream cone. It also rescues weak compositions, busy backgrounds or tiny subjects — the lower half deletes background, light and perspective, shrinks the subject into a palm-sized doodle and lets it play with one line of big letters, turning the photo into something relaxed and funny. When the photograph is a scene, only one object or fragment is drawn.
+## Get started in three steps
 
-The key is the shortest, most recognisable phrase that names the photo's metaphor, written in thick black marker — wobbly, uneven in size and stroke weight — enlarged into the hero of the half across the middle with space on both sides; doodles lean on the strokes, sit on the letters or peek out from behind them, covering only a little; an unclosed crooked frame with one corner poking past the words; two small slanted handwritten footnotes; warm white fills most of the half, black is only for the letters and lines, and each doodle takes one bright colour from the photo. Avoid a full-scene copy, a filled background, tidy print-like or shrunken lettering, doodles separate from the words, skilled illustration lines, realistic proportions, too many doodles, large colour fields, gradients and greyish colour.
-
-## Usage tips
-
-- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
-- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
-- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
-- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
-- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
-- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
-
-## Getting started
-
-Install from GitHub:
+**1. Install.** Works with Claude Code, Codex and other agents that support Skills:
 
 ```bash
 npx skills add https://github.com/nevertoday/xxd-panel-351 --skill xxd-panel-351
 ```
 
-Restart the agent session after installation, then invoke `$xxd-panel-351`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
+Then restart your agent session. You can also `git clone` this repository and link the folder to `~/.claude/skills/xxd-panel-351` or `~/.codex/skills/xxd-panel-351`.
 
-Common examples:
+**2. Make sure your agent can generate images.** This Skill has no image model of its own; it uses your agent's image generation, preferably GPT Image 2.
+
+- Codex works as is when its built-in image generation is on.
+- Claude Code and other agents without built-in image generation need an OpenAI-compatible image API. It takes about five minutes: see [Setting up image generation](#setting-up-image-generation).
+
+Not sure? Just try it. If images can't be generated, the Skill stops and tells you before doing any work.
+
+**3. Send a photo and say one sentence:**
+
+> Use xxd-panel-351 to turn this photo into a 3:4 top–bottom poster with an English title.
+
+If your request is complete, it starts right away; anything you left out (layout, ratio, text) it asks about, usually in one or two questions. Results are PNGs in a new folder under `~/Desktop/xxd/xxd-panel-351/`.
+
+## Which photos work best
+
+**Works well**
+
+- Simple, slightly cute everyday photos: a cup of coffee, a slice of pizza, an ice cream
+- Animals and small objects: a sleeping cat, a chick, a skateboard
+- Photos you want as a small brand's key visual, a sticker, a menu cover or a social post
+
+**Not a good fit**
+
+- Requests that need the photo's scene, lighting or true proportions, since only a few doodles remain
+- Requests with no big lettering or with neat printed type, since the hand-lettered phrase is the star
+- Requests for skilled, polished illustration lines, realistic proportions or glossy commercial cartoons
+
+## Samples
+
+Each image below is a finished result this Skill made from one photo. The top–bottom and left–right sets use different photos.
+
+### Top–bottom: photo above, design below
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 351 · 01 · Latte pour"><br><sub>01 · Latte pour</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 351 · 02 · Croissant"><br><sub>02 · Croissant</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 351 · 03 · Pizza"><br><sub>03 · Pizza</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 351 · 04 · Skateboard"><br><sub>04 · Skateboard</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary>Show 16 more</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 351 · 05 · Picnic"><br><sub>05 · Picnic</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 351 · 06 · Surfboards"><br><sub>06 · Surfboards</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 351 · 07 · Hot dog"><br><sub>07 · Hot dog</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 351 · 08 · Watermelon"><br><sub>08 · Watermelon</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 351 · 09 · Doughnut"><br><sub>09 · Doughnut</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 351 · 10 · Dog walk"><br><sub>10 · Dog walk</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 351 · 11 · Cat nap"><br><sub>11 · Cat nap</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 351 · 12 · Rainy day"><br><sub>12 · Rainy day</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 351 · 13 · Campfire"><br><sub>13 · Campfire</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 351 · 14 · Breakfast"><br><sub>14 · Breakfast</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 351 · 15 · Swimming pool"><br><sub>15 · Swimming pool</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 351 · 16 · Bike ride"><br><sub>16 · Bike ride</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 351 · 17 · Kite flying"><br><sub>17 · Kite flying</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 351 · 18 · Record player"><br><sub>18 · Record player</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 351 · 19 · Burger"><br><sub>19 · Burger</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 351 · 20 · Sushi"><br><sub>20 · Sushi</sub></td>
+  </tr>
+</table>
+
+</details>
+
+### Left–right: photo left, design right
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 351 · 21 · Ice cream cone"><br><sub>21 · Ice cream cone</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 351 · 22 · Lemonade"><br><sub>22 · Lemonade</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 351 · 23 · Saguaro"><br><sub>23 · Saguaro</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 351 · 24 · Tree frog"><br><sub>24 · Tree frog</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary>Show 16 more</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 351 · 25 · Sunflower"><br><sub>25 · Sunflower</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 351 · 26 · Tennis"><br><sub>26 · Tennis</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 351 · 27 · Cocktail"><br><sub>27 · Cocktail</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 351 · 28 · Cake"><br><sub>28 · Cake</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 351 · 29 · Balloons"><br><sub>29 · Balloons</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 351 · 30 · Chick"><br><sub>30 · Chick</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 351 · 31 · Strawberries"><br><sub>31 · Strawberries</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 351 · 32 · Starfish"><br><sub>32 · Starfish</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 351 · 33 · Guitarist"><br><sub>33 · Guitarist</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 351 · 34 · Skiing"><br><sub>34 · Skiing</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 351 · 35 · Noodles"><br><sub>35 · Noodles</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 351 · 36 · Milkshake"><br><sub>36 · Milkshake</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 351 · 37 · Stack of books"><br><sub>37 · Stack of books</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 351 · 38 · Hat"><br><sub>38 · Hat</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 351 · 39 · Sneakers"><br><sub>39 · Sneakers</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 351 · 40 · Camera"><br><sub>40 · Camera</sub></td>
+  </tr>
+</table>
+
+</details>
+
+## Just say it
+
+No parameters to memorise. Say what you want:
+
+| You want | Say |
+|---|---|
+| Top–bottom comparison | Make a 3:4 top–bottom comparison |
+| Left–right comparison | Make a 16:9 left–right comparison, photo on the left |
+| Design only | Just the design, no photo, 9:16 portrait |
+| A wallpaper set | Make matching wallpapers for phone, tablet, desktop and watch |
+| Several ratios | Make this one at 1:1, 3:4 and 16:9 |
+| Your own text | Use the title “Let the wind pass through” exactly as written |
+| No text | No text at all |
+| Text language | Write the text in Japanese |
+| A whole folder | Turn every photo in this folder into a top–bottom comparison |
+| Same as last time | Use my settings from last time |
+
+Prefer the command line? The flags map one to one:
 
 ```text
 /xxd-panel-351 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale en-US
-/xxd-panel-351 photo.jpg --mode left-right --size 16:9 --text prompt --locale en-US
-/xxd-panel-351 photo.jpg --mode design-only --size 9:16 --text none --prefs off
-/xxd-panel-351 ./photos --mode design-only --size auto,3:4 --text prompt --locale ja-JP
+/xxd-panel-351 photo.jpg --mode design-only --size 9:16 --text none
+/xxd-panel-351 ./photos --mode left-right --size 16:9 --text prompt --locale ja-JP
 ```
 
-See [SKILL.md](SKILL.md) for the full runtime contract and the [English](references/xxd-panel-351-prompt.en.md) or [Chinese](references/xxd-panel-351-prompt.zh-CN.md) runtime adapter.
+All flags are listed under [Parameters](#parameters).
+
+## FAQ
+
+**Does the original photo have to appear?** No. Ask for “design only” or a wallpaper set and the whole canvas is design.
+
+**Who writes the text?** By default the image model writes it from your photo; you only choose the language. Give your own words and they are used exactly; or ask for no text. Anything that looks factual (places, dates, numbers) comes only from you or from what is visible in the photo, never invented.
+
+**What if I don't like the result?** Say “one more”. It redraws from the original photo instead of editing the last result, so every attempt is different.
+
+**Do photos in a batch mix together?** No. Each photo is generated on its own and never borrows another photo's colours, text or layout. Settings are asked once for the whole batch.
+
+**Where do my photos go?** Only to the image model your agent uses. The Skill uploads nothing elsewhere and never prints endpoints or keys.
+
+**How does this relate to other Panels?** XXD Panels are a family of styles, one per number, fully independent; install only the ones you like. To have AI recommend a style for a photo, or compare several at once, use the catalog [xxd-panel-all](https://github.com/nevertoday/xxd-panel-all).
 
 ## Original prompt
 
-The [complete Chinese source](references/original-prompt/zh-CN.md) is preserved verbatim and is the sole creative and aesthetic authority at runtime. This batch provides five-language usage documentation, without four additional long-form translations. Style summaries are for discovery only and never replace the source.
+This style is defined entirely by Xiaoxiaodong's [original prompt](references/original-prompt/zh-CN.md) (in Chinese). The Skill only appends the layout, size and text settings you choose; it never summarises, translates or rewrites the prompt.
 
-## Quick fit check
+Reading translations (for reading only; never sent to the image model): [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
 
-Keep the source identity while redirecting composition; retain the material signature while actively leaving space. Choose exact text, generated copy or no text, with single-image or recursive directory processing and the four delivery modes below.
+## Setting up image generation
 
-## Four output modes
+You need an OpenAI-compatible API that serves `gpt-image-2` (or a compatible model) and its API key. This creates a separate config and leaves your Codex settings alone:
 
-- `top-bottom`: exactly two full-width regions, reality above and design below, 50% each.
-- `left-right`: exactly two full-height regions, reality left and design right, 50% each; it never rotates into a top-bottom layout.
-- `design-only`: the full canvas contains only Panel 351's designed translation; the photograph remains a non-visible reference.
-- `wallpaper-pack`: creates complete artworks for phone, iPad, desktop, and watch, either `linked` as a coherent family or `independent` as four separate works.
+```bash
+mkdir -p ~/.xxd-imagegen
+cat > ~/.xxd-imagegen/config.toml <<'EOF'
+model_provider = "image"
 
-Modes and sizes may be combined. Supported sizes include `1:1`, `3:4`, `4:3`, `4:5`, `5:4`, `2:3`, `3:2`, `9:16`, `16:9`, `21:9`, `5:7`, `7:5`, and exact pixels. Text can be prompt-generated, user-exact, or absent. A directory is inventoried recursively and every source is isolated while sharing one set of delivery settings; final PNG files remain flat in one fresh task directory.
+[model_providers.image]
+base_url = "https://api.openai.com/v1"   # or your compatible endpoint
+env_key = "XXD_IMAGE_API_KEY"
+EOF
+
+# add to ~/.zshrc or ~/.bashrc so your agent can read them
+echo 'export XXD_IMAGEGEN_CODEX_DIR=~/.xxd-imagegen' >> ~/.zshrc
+echo 'export XXD_IMAGE_API_KEY=your-key' >> ~/.zshrc
+```
+
+Reopen your terminal and agent, then check once from this Skill's folder:
+
+```bash
+python3 scripts/configured_imagegen.py probe
+```
+
+`"ok":true` means it works. The check only reports readiness; it never prints the endpoint or key. If your Codex already generates images through a compatible API, skip this step.
+
+## Parameters
+
+| Flag | Values |
+|---|---|
+| `--mode` | `top-bottom` · `left-right` · `design-only` · `wallpaper-pack` (phone, tablet, desktop, watch); combine freely |
+| `--size` | `auto` recommended · `source` match the photo · `1:1` `3:4` `4:3` `4:5` `5:4` `2:3` `3:2` `9:16` `16:9` `21:9` `5:7` `7:5` · exact pixels such as `2160x3840`; combine freely |
+| `--text` | `prompt` written from the photo · `exact` your words (with `--copy "…"`) · `none` no text |
+| `--locale` | text language, e.g. `zh-CN` `en-US` `ja-JP` `ko-KR` `ar` |
+| `--wallpaper` | `linked` a matching set · `independent` four separate designs |
+| `--wallpaper-size` | device pixels, e.g. `phone=1440x3200,desktop=3840x2160` |
+| `--out` | another output root (default `~/Desktop/xxd/xxd-panel-351/`) |
+| `--prefs` | `last` reuse · `edit` start from last time · `new` choose again · `off` don't remember this time · `clear` forget |
+
+- With every value given, nothing is asked; otherwise only the missing values are. Pass a folder instead of `photo.jpg` to batch.
+- Combinations are generated one by one: 2 modes × 3 sizes = 6 images, each composed for its own canvas rather than cropped.
+- Comparisons are exactly 50:50. Usually the model paints only the design half and a script places the untouched photo beside it, so the split is centred and the photo is unchanged.
+- Files are named like `source-001-street-top-bottom-3x4-1152x1536.png`, all in one flat task folder.
+- Only layout, size, text mode and language are remembered, never photos, copy or keys.
 
 <!-- xxd-readme-ads:start -->
 ## About XXD
